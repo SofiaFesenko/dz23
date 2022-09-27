@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand';
+}
+
+.card {
+    width: 15%;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 5px;
+}
+
+.cardText {
+    text-align: center;
+}
+
+.text {
+    margin-bottom: 10px;
+}
+
+.title {
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.button {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(221, 156, 14);
+    background-color: black;
+    padding: 15px 30px;
+}
+
+.cardImage {
+    width: 125px;
+    margin: auto;
+}
+
+.image {
+    height: 180px;
+    margin-top: 60px;
+}
+
+.icon {
+    text-align: center;
+}
+
+.fa-circle {
+    font-size: 10px;
+    color: rgb(158, 123, 123);
+}
+
+.fa-solid {
+    color: rgb(189, 96, 104);
+}
